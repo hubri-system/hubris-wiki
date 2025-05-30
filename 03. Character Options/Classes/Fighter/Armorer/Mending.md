@@ -1,0 +1,8 @@
+---
+Ticks: 0
+Tier: 1
+XP: 1
+tags: Paths/Armorer
+---
+
+You may take 10 minutes to quickly repair/jerry-rig broken equipment, materials, or suchlike. You can repair a single crack, tear, or other structural damage that is no larger than your arm.

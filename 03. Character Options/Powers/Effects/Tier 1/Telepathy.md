@@ -1,0 +1,15 @@
+---
+Power: 1
+Tag(s):
+  - "[[Mind|Mind]]"
+  - "[[Intelligence|Intelligence]]"
+  - "[[Conjuration|Conjuration]]"
+Tier: 1
+XP: 1
+tags:
+  - Tags/Mind
+  - Tags/Intelligence
+  - Tags/Conjuration
+---
+
+The target gains the ability to communicate telepathically with creatures within range.

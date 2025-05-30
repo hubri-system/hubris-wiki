@@ -1,0 +1,9 @@
+---
+Requires:
+  - "[[Resilience]]"
+Tier: 2
+XP: 4
+tags: Paths/Earth
+---
+
+You can tell what squares are occupied with 10 feet of you, so long as you and the creature occupying the square are both touching natural ground.

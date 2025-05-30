@@ -1,0 +1,21 @@
+---
+Power: 3
+Requires:
+  - "[[Hinder]]"
+Tag(s):
+  - "[[03. Character Options/Tags/Storm|Storm]]"
+  - "[[Conjuration|Conjuration]]"
+  - "[[Mind|Mind]]"
+  - "[[Religion|Religion]]"
+  - "[[Transmutation|Transmutation]]"
+Tier: 1
+XP: 2
+tags:
+  - Tags/Air
+  - Tags/Conjuration
+  - Tags/Mind
+  - Tags/Religion
+  - Tags/Transmutation
+---
+
+Darkness fills the targeted area, blocking line of sight.

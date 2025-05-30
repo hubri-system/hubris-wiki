@@ -1,0 +1,8 @@
+{
+  "snippetsFile": "sr |+| [[Downtime#Short Rest|Short Rest]]\n-==-\nhd |+| [[Defense#Hit Dice [HD]|HD]]\n-==-\nprof |+| [[Proficiency#Proficiency Bonus|Proficiency Bonus]]\n-==-\nstr |+| [[Attributes#Strength [STR]|Strength]]\n-==-\ncha |+| [[Attributes#Charisma [CHA]|Charisma]]\n-==-\nwis |+| [[Attributes#Wisdom [WIS]|Wisdom]]\n-==-\ndex |+| [[Attributes#Dexterity [DEX]|Dexterity]]\n-==-\ncon |+| [[Attributes#Constitution [CON]|Constitution]]\n-==-\nint |+| [[Attributes#Intelligence [INT]|Intelligence]]",
+  "triggerOnSpace": "y-ws",
+  "triggerOnEnter": "disabled",
+  "triggerOnTab": "n-ws",
+  "snippetPartDivider": " |+| ",
+  "snippetDivider": "-==-"
+}

@@ -1,0 +1,10 @@
+---
+Requires:
+- '[[Battlefield Medicine]]'
+Ticks: 10
+Tier: 1
+XP: 3
+tags: Paths/Healer
+---
+
+You can spend your hit dice to heal others.
