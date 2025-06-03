@@ -1,0 +1,1 @@
+When you choose your class in HUBRIS (or buy one as part of your character's progression), you gain access to one or more [[Tags]]. These determine what kinds of effects your character has access to.
