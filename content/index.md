@@ -2,7 +2,7 @@ Welcome to HUBRIS!
 
 ## [[Basic Mechanics]]
 - [[Action Resolution]]
-	- [[Action Resolution#Advantage]]
+	- [[Action Resolution#Advantage|Adv]]
 	- 
 - [[Proficiency]]
 - [[Progression]]

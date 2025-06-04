@@ -23,9 +23,13 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import Frontmatter from "./Frontmatter"
+import PageProperties from "./PageProperties"
 
 export {
   ArticleTitle,
+  PageProperties,
+  Frontmatter,
   Content,
   TagContent,
   FolderContent,
