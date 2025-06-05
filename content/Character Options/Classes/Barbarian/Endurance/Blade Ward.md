@@ -5,6 +5,6 @@ XP: 1
 tags:
   - defense
   - combat/damage
+Duration: "[[Round]]"
 ---
-
-You have resistance to all damage until the end of your next turn.
+You have [[Damage#Resistance]] to all damage until the end of your next turn.

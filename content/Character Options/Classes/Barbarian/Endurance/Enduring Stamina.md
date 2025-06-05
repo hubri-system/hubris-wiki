@@ -9,5 +9,4 @@ tags:
   - combat
   - defense
 ---
-
-Whenever you roll for [[Structured Time#Initiative]], if you have no [[Defense#Hit Dice (HD)|Hit Dice]], you gain a [[Defense#Hit Dice [HD]|Hit Die]].
+Whenever you roll for [[Structured Time#Initiative]], if you have no [[Defending#Hit Dice [HD]|Hit Dice]], you gain a [[Defending#Hit Dice [HD]|Hit Die]].

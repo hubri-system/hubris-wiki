@@ -5,7 +5,6 @@ Ticks: 0
 Tier: 2
 XP: 6
 tags:
-  - combat/hp
+  - hp
 ---
-
-You can spend [[Action Resolution#Hero Points]] as [[Defense#Hit Dice [HD]|Hit Dice]].
+You can spend [[Action Resolution#Hero Points]] as [[Health & Stamina#Hit Dice [HD]|Hit Dice]].

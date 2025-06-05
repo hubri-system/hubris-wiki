@@ -1,15 +1,18 @@
 ---
 Requires:
-- '[[Paranoid]]'
+  - "[[Paranoid]]"
 Ticks: 0
 Tier: 2
 XP: 6
+tags:
+  - combat/damage
+  - movement
+  - movement/modes
 ---
+You can spend a [[Action Resolution#Hero Points|Hero Point]] to gain an aspect of a creature until the end of combat.
 
-You can spend a Hero Point to gain an aspect of a creature until the end of combat.
-
-| Animal | Trait                                                                                                          |
-| ------ | -------------------------------------------------------------------------------------------------------------- |
-| Bear   | You gain resistance to all damage.                                                                             |
-| Elk    | You move as though you had spent 3 times as many ticks, and your movement doesn't provoke opportunity attacks. |
-| Ape    | You gain a climb speed and are immune to falling damage.                                                       |
+| Animal | Trait                                                                                                                                                                     |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bear   | You gain [[Damage#Resistance]] to all damage.                                                                                                                             |
+| Elk    | You [[Structured Time#Move\|move]] as though you had spent 3 times as many [[Structured Time#Ticks]], and your movement doesn't provoke [[Movement#Opportunity Attacks]]. |
+| Ape    | You gain a climb speed and are immune to falling damage.                                                                                                                  |

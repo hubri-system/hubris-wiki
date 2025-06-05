@@ -3,3 +3,7 @@ Combat in HUBRIS proceeds in units of structured time called ***ticks***. The le
 
 ## Initiative
 The initial order of turns in combat is determined by a special roll called an ***initiative*** check. 
+
+## Actions in Combat
+### Move
+### Attack

@@ -12,3 +12,4 @@ The target treats you as a close friend, trusting you unless you attack it.
 The target cannot move from the space it currently occupies.
 ## Paralyzed
 The target is [[#Immobile]]. In addition, it may not take any actions, and automatically fails all [[Attributes#Strength [STR]|Strength]] and [[Attributes#Dexterity [DEX]|Dexterity]] rolls.
+## Surprised

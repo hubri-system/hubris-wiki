@@ -6,6 +6,6 @@ XP: 8
 tags:
   - mental
   - defense
+Duration: "[[Round]]"
 ---
-
-Whenever you hit with an attack, you become immune to mind-affecting spells until the start of your next turn
+Whenever you hit with an attack, you become immune to powers with the #mental and #illusion properties until the start of your next turn. You may choose to ignore this effect for any powers of your choice.

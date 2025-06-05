@@ -1,5 +1,4 @@
 ---
-Properties: 
 Requires:
   - "[[Reckless Attack]]"
 Ticks: 5
@@ -9,5 +8,4 @@ tags:
   - combat/attacks
   - action-economy
 ---
-
-You can make a standard attack as a 5-tick action. It can only glance or miss, and cannot hit.
+You can make a [[Attacking#Standard]] attack for 5 ticks. It can only [[Attacking#Glancing Hit|glance]] or miss, and cannot hit.

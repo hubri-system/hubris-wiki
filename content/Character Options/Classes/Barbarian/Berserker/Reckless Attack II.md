@@ -8,5 +8,4 @@ tags:
   - combat/damage
   - offense
 ---
-
-When you hit with an attack, you can deal an extra point of hit point damage. If you do, all attacks against you deal an additional point of damage until the end of your next turn.
+When you hit with an [[Attacking#Attacks|Attack]], you can deal an extra point of [[Health & Stamina#Hit Points [HP]|Hit Point]] damage. If you do, all attacks against you deal an additional point of damage until the end of your next turn.

@@ -8,7 +8,7 @@ Tag(s):
 Tier: 1
 XP: 3
 tags:
-- combat/hp
+- hp
 - defense
 ---
 

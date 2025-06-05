@@ -8,4 +8,4 @@ tags:
   - hd
 ---
 
-Whenever you spend a [[Defense#Hit Dice [HD]|Hit Die]], you may spend 1d4 instead of 2d4.
+Whenever you spend a [[Defending#Hit Dice [HD]|Hit Die]], you may spend 1d4 instead of 2d4.

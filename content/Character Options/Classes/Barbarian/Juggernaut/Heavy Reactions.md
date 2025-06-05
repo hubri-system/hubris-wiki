@@ -1,9 +1,10 @@
 ---
 Requires:
-- '[[Ringing Strike]]'
+  - "[[Ringing Strike]]"
 Ticks: 0
 Tier: 2
 XP: 5
+tags:
+  - combat/attacks
 ---
-
-When making an opportunity attack, you may make a [[Offense#Heavy]] attack instead of a [[Offense#Medium]] attack.
+When making an [[Movement#Opportunity Attacks|Opportunity]] attack, you may make a [[Attacking#Heavy]] attack instead of a [[Attacking#Medium]] attack.

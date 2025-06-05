@@ -1,21 +1,21 @@
 ---
 Archetypes:
-- '[[Berserker]]'
-- '[[Juggernaut]]'
-- '[[Wild]]'
-- '[[Character Options/Classes/Barbarian/Endurance|Endurance]]'
+  - "[[Berserker]]"
+  - "[[Juggernaut]]"
+  - "[[Wild]]"
+  - "[[Character Options/Classes/Barbarian/Endurance|Endurance]]"
 Armor:
-- '[[Defense#Light|Light]]'
-- '[[Defense#Medium|Medium]]'
-Attribute: '[[Attributes#Constitution [CON]|Constitution]]'
+  - "[[Defending#Light|Light]]"
+  - "[[Defending#Medium|Medium]]"
+Attribute: "[[Attributes#Constitution [CON]|Constitution]]"
 Hd: 2d4
 Tag(s):
-- '[[Bludgeoning]]'
-- '[[Piercing]]'
-- '[[Slashing]]'
-- '[[Strength|Strength]]'
-- '[[Constitution|Constitution]]'
+  - "[[Bludgeoning]]"
+  - "[[Piercing]]"
+  - "[[Slashing]]"
+  - "[[Strength|Strength]]"
+  - "[[Constitution|Constitution]]"
 Weapons:
-- '[[Offense#Martial|Martial]]'
-- '[[Offense#Simple|Simple]]'
+  - "[[Attacking#Martial|Martial]]"
+  - "[[Attacking#Simple|Simple]]"
 ---

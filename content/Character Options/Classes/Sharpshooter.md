@@ -1,20 +1,20 @@
 ---
 Archetypes:
-- '[[Black Hat]]'
-- '[[Gunner]]'
-- '[[Quickdraw]]'
-- '[[Deadeye]]'
+  - "[[Black Hat]]"
+  - "[[Gunner]]"
+  - "[[Quickdraw]]"
+  - "[[Deadeye]]"
 Armor:
-- '[[Defense#Light|Light]]'
-- '[[Defense#Medium|Medium]]'
-Attribute: '[[Attributes#Dexterity [DEX]|Dexterity]]'
+  - "[[Defending#Light|Light]]"
+  - "[[Defending#Medium|Medium]]"
+Attribute: "[[Attributes#Dexterity [DEX]|Dexterity]]"
 Hd: d6
 Tag(s):
-- '[[Agility|Agility]]'
-- '[[Bludgeoning]]'
-- '[[Piercing]]'
-- '[[Slashing]]'
+  - "[[Agility|Agility]]"
+  - "[[Bludgeoning]]"
+  - "[[Piercing]]"
+  - "[[Slashing]]"
 Weapons:
-- '[[Offense#Simple|Simple]]'
-- '[[Offense#Martial|Martial]]'
+  - "[[Attacking#Simple|Simple]]"
+  - "[[Attacking#Martial|Martial]]"
 ---
