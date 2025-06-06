@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Area": "number",
+    "Range": "text",
+    "Tier": "number",
+    "XP": "number",
+    "Shape": "multitext",
+    "Requires": "multitext",
+    "Armor": "multitext",
+    "Weapons": "multitext",
+    "Attribute": "text",
+    "Archetypes": "multitext",
+    "needs-attention": "checkbox"
+  }
+}

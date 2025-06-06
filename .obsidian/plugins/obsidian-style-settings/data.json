@@ -1,0 +1,10 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
+  "primary-theme@@interface-font-feature": "\"\"",
+  "primary-theme@@text-font-feature": "\"\"",
+  "primary-theme@@monospace-font-feature": "\"\"",
+  "primary-theme@@h1-line-height": 1,
+  "primary-theme@@h1-vt-align-center": true,
+  "primary-theme@@h2-line-height": 1
+}

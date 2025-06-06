@@ -1,0 +1,8 @@
+{
+  "snippetsFile": "hd |+| [[Health & Stamina#Hit Dice [HD]|HD]]\n-==-\nhp |+| [[Health & Stamina#Hit Points [HP]|Hit Points]]\n-==-\nprof |+| [[Proficiency#Proficiency Bonus|Proficiency Bonus]]\n-==-\nstr |+| [[Attributes#Strength [STR]|Strength]]\n-==-\ncha |+| [[Attributes#Charisma [CHA]|Charisma]]\n-==-\nwis |+| [[Attributes#Wisdom [WIS]|Wisdom]]\n-==-\ndex |+| [[Attributes#Dexterity [DEX]|Dexterity]]\n-==-\ncon |+| [[Attributes#Constitution [CON]|Constitution]]\n-==-\nint |+| [[Attributes#Intelligence [INT]|Intelligence]]\n-==-\nattack |+| [[Attacking#Attacks|Attack]]\n-==-\nadv |+| [[Action Resolution#Advantage]]\n-==-\nhero point |+| [[Action Resolution#Hero Points|Hero Point]]\n-==-\nfate point |+| [[Action Resolution#Fate Points|Fate Point]]\n-==-\nlr |+| [[Downtime#Long Rest]]\n-==-\nsr |+| [[Downtime#Short Rest]]\n",
+  "triggerOnSpace": "y-ws",
+  "triggerOnEnter": "disabled",
+  "triggerOnTab": "n-ws",
+  "snippetPartDivider": " |+| ",
+  "snippetDivider": "-==-"
+}
