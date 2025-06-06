@@ -10,7 +10,7 @@ XP: 1
 tags:
 - combat
 - defense
-- combat/attacks
+- attacks
 ---
 
 The target gains disadvantage on attacks.

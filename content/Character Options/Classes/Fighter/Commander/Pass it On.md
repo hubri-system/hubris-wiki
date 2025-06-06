@@ -1,9 +1,12 @@
 ---
 Requires:
-- '[[Message]]'
+  - "[[Message]]"
 Ticks: 0
 Tier: 1
 XP: 2
+tags:
+  - advantage
+  - allies
+Range: "[[Short]]"
 ---
-
-If an ally has multiple sources of advantage on an attack roll, they can grant advantage to an ally's next attack, so long as that ally is visible and within 30 feet.
+If one of your allies has multiple sources of [[Action Resolution#Advantage]] on an attack roll, they can grant advantage to an ally's next attack, so long as that ally is visible and within [[Short]] range.

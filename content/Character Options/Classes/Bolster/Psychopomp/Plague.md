@@ -1,9 +1,11 @@
 ---
 Requires:
-- '[[Sense Unlife]]'
+  - "[[Sense Unlife]]"
 Ticks: 0
 Tier: 1
 XP: 3
+tags:
+  - reaction
+  - dying
 ---
-
-Whenever a creature dies with a spell or effect you placed on them active, you can use your reaction to recast the spell targeting another creature.
+Whenever a creature dies with an ability you placed on them active, you can use your [[Structured Time#Reactions|Reaction]] to reattempt the ability, targeting another creature.

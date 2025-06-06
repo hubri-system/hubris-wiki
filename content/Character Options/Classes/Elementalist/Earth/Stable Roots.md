@@ -1,9 +1,13 @@
 ---
 Requires:
-- '[[Acid Splash]]'
+  - "[[Acid Splash]]"
 Ticks: 0
 Tier: 1
 XP: 2
+tags:
+  - advantage
+  - movement
+  - defense
 ---
 
-You have advantage on rolls made to resist forced movement.
+You have [[Action Resolution#Advantage]] on rolls made to resist forced movement.

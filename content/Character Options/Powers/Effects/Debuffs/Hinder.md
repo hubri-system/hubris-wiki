@@ -10,7 +10,7 @@ Tier: 1
 XP: 1
 tags:
 - combat
-- combat/attacks
+- attacks
 - defense
 ---
 

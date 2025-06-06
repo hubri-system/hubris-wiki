@@ -11,7 +11,7 @@ Tag(s):
 Tier: 1
 XP: 3
 tags:
-- combat/armor
+- armor
 ---
 
 The target’s armor class increases by a number equal to your Proficiency bonus plus your Purity score.

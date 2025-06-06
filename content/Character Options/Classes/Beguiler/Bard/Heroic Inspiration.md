@@ -1,8 +1,9 @@
 ---
 Requires:
-- '[[Combat Inspiration]]'
+  - "[[Combat Inspiration]]"
 Tier: 2
 XP: 6
+tags:
+  - hero-points
 ---
-
-You can spend Hero Points as Bardic Inspiration dice
+You can spend [[Action Resolution#Hero Points]] as [[Inspiration]] dice.

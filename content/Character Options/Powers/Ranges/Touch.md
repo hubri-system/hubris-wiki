@@ -1,7 +1,7 @@
 ---
 Area: 5
 Power: 1
-Range: 5
+Distance: 5
 Shape:
   - Person
 Tier: 1

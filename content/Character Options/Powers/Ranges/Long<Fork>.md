@@ -1,7 +1,7 @@
 ---
 Area: "5"
 Power: 3
-Range: "60"
+Distance: "60"
 Requires:
   - "[[Long II|Long II]]"
 Shape:

@@ -1,8 +1,9 @@
 ---
 Requires:
-- '[[Heroic Deflection]]'
+  - "[[Heroic Deflection]]"
 Tier: 3
 XP: 7
+tags:
+  - damage
 ---
-
-As spikes, but the attack deals 1 damage
+As [[Spikes]], but the attack deals 1 damage

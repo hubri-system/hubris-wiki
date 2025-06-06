@@ -12,7 +12,7 @@ Attribute: "[[Attributes#Strength [STR]|Strength]]"
 Hd: d6
 Tag(s):
   - "[[Charisma|Charisma]]"
-  - "[[Strength|Strength]]"
+  - "[[Character Options/Tags/Strength|Strength]]"
   - "[[Bludgeoning]]"
   - "[[Piercing]]"
   - "[[Slashing]]"

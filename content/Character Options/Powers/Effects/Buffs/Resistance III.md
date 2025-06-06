@@ -10,7 +10,7 @@ Tag(s):
 Tier: 2
 XP: 4
 tags:
-- combat/damage
+- damage
 - combat
 - defense
 ---

@@ -1,9 +1,11 @@
 ---
 Requires:
-- '[[Elemental Shape]]'
+  - "[[Elemental Shape]]"
 Ticks: 0
 Tier: 2
 XP: 6
+tags:
+  - hero-points
+  - shapechange
 ---
-
-You can spend a hero point to alter your form to any other form you can polymorph into while Polymorphed.
+You can spend a [[Action Resolution#Hero Points|Hero Point]] to alter your form to any other form you can transform into while [[Conditions#Polymorphed]].

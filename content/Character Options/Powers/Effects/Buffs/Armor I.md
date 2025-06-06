@@ -9,7 +9,7 @@ Tag(s):
 Tier: 1
 XP: 1
 tags:
-- combat/armor
+- armor
 ---
 
 The target’s armor class increases by a number equal to your Proficiency bonus.

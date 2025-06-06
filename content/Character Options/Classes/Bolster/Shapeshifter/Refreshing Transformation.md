@@ -1,8 +1,9 @@
 ---
 Requires:
-- '[[Special Abilities]]'
+  - "[[Special Abilities]]"
 Tier: 3
 XP: 8
+tags:
+  - strain
 ---
-
-When you assume a new form, your spells since long rest uses a fresh counter. This does not hold over to your base form
+When you assume a new form, you start a fresh [[Powers#Strain]] counter. This does not hold over to your base form.

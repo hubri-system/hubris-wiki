@@ -1,7 +1,7 @@
 ---
 Area: 30
 Power: 5
-Range: 0
+Distance: 0
 Requires:
   - "[[Character Options/Powers/Ranges/Short|Short]]"
 Shape:

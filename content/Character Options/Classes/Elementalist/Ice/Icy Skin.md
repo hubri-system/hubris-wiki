@@ -1,9 +1,12 @@
 ---
 Requires:
-- '[[Investiture of Frost]]'
+  - "[[Investiture of Frost]]"
 Ticks: 5
 Tier: 3
 XP: 7
+tags:
+  - armor
+  - reaction
+  - damage
 ---
-
-Your AC is at minimum 10+your proficiency modifier+DEX Whenever you take damage, you can use your reaction to cause icy shards to slash at a creature within 5 feet of you for 1 point of damage
+Your [[Defending#Armor Class [AC]]] is at minimum ***10 + [[Proficiency#Proficiency Bonus]] + [[Attributes#Dexterity [DEX]]]***. Whenever you take damage, you can use your [[Structured Time#Reactions|Reaction]] to cause icy shards to slash at a creature within [[Touch]] range of you for 1 point of damage.

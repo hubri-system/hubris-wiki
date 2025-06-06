@@ -1,8 +1,8 @@
 ---
 Requires:
-- '[[Helpful]]'
+  - "[[Helpful]]"
 Tier: 2
 XP: 5
+Range: "[[Short]]"
 ---
-
-For 5 ticks, you can move an effect from the [[Buffs]] tree you have cast from one creature to another within 30 feet.
+For 5 ticks, you can move an effect with the #buff property you have cast from one creature to another within [[Short]] range.

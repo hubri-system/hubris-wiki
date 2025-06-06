@@ -5,9 +5,9 @@ Ticks: 0
 Tier: 2
 XP: 6
 tags:
-  - combat/damage
+  - damage
   - movement
-  - movement/modes
+  - movement/climb
 ---
 You can spend a [[Action Resolution#Hero Points|Hero Point]] to gain an aspect of a creature until the end of combat.
 

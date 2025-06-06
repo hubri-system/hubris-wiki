@@ -1,8 +1,10 @@
 ---
 Requires:
-- '[[Anesthetize]]'
+  - "[[Anesthetize]]"
 Tier: 3
 XP: 8
+tags:
+  - power
+  - healing
 ---
-
-Whenever you cast a healing spell, you can add a single buff effect you know for free. The Spell cost is the higher of the two effects, rather than their sum.
+Whenever you use a power with the #healing property, you can add a single effect with the #buff property you know for free. The power cost is the higher of the two effects, rather than their sum.

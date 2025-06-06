@@ -6,7 +6,7 @@ Tier: 3
 XP: 9
 tags:
   - defense
-  - combat/damage
+  - damage
 ---
 
 You can generate a [[Action Resolution#Fate Points|Fate Point]] to gain immunity to all damage for a Combat Duration

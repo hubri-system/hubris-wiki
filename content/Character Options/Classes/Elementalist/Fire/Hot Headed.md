@@ -1,9 +1,10 @@
 ---
 Requires:
-- '[[Firebolt]]'
+  - "[[Firebolt]]"
 Ticks: 0
 Tier: 1
 XP: 2
+tags:
+  - initiative
 ---
-
-You add your [[Attributes/Charisma|Charisma]] bonus to your initiative rolls.
+You add your [[Attributes#Charisma [CHA]|Charisma]] bonus to your [[Structured Time#Initiative]] rolls.

@@ -1,4 +1,4 @@
-In HUBRIS, 
+
 ## Proficiency Bonus
 Your Proficiency Bonus is determined by your tier, and represents your performance in activities you've been trained in. You add your Proficiency Bonus to:
 - Attack rolls with [[Attacking#Weapons|weapon types]] with which you are proficient

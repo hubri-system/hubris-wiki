@@ -1,9 +1,11 @@
 ---
 Requires:
-- '[[Mending]]'
+  - "[[Mending]]"
 Ticks: 0
 Tier: 1
 XP: 2
+tags:
+  - armor
+  - movement
 ---
-
-Wearing heavy armor does not reduce your move speed.
+Wearing [[Defending#Heavy]] armor does not reduce your move speed.

@@ -1,7 +1,7 @@
 ---
 Area: 5
 Power: 2
-Range: 30
+Distance: 30
 Requires:
   - "[[Character Options/Powers/Ranges/Touch|Touch]]"
 Shape:

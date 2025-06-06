@@ -1,8 +1,9 @@
 ---
 Requires:
-- '[[Frozen Metabolism]]'
+  - "[[Frozen Metabolism]]"
 Tier: 2
 XP: 5
+tags:
+  - defense
 ---
-
-You cannot be slowed.
+You cannot be [[Conditions#Slowed]].

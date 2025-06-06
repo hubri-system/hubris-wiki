@@ -7,3 +7,6 @@ The initial order of turns in combat is determined by a special roll called an *
 ## Actions in Combat
 ### Move
 ### Attack
+### Dodge
+### Help
+## Reactions

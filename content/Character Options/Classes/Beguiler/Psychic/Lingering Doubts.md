@@ -1,8 +1,9 @@
 ---
 Requires:
-- '[[Lethal Doubts]]'
+  - "[[Lethal Doubts]]"
 Tier: 3
 XP: 8
+tags:
+  - disadvantage
 ---
-
-A creature you target with your Bardic Doubts has disadvantage on all checks until they fail one
+A creature you target with your [[Doubts]] feature has [[Action Resolution#Disadvantage]] on all checks until they fail one.

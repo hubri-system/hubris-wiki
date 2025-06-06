@@ -1,9 +1,12 @@
 ---
 Requires:
-- '[[Vitality]]'
+  - "[[Vitality]]"
 Ticks: 0
 Tier: 2
 XP: 4
+tags:
+  - summon
+  - power
+  - hd
 ---
-
-Creatures you summon gain one extra hit die when you summon them.
+Creatures you call with a #summon power gain one extra [[Health & Stamina#Hit Dice [HD]|Hit Die]] when you summon them.

@@ -1,7 +1,7 @@
 ---
 Area: "20"
 Power: 5
-Range: "30"
+Distance: "30"
 Requires:
   - "[[Character Options/Powers/Ranges/Burst|Burst]]"
 Shape:

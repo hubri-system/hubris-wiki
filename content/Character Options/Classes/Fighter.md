@@ -15,7 +15,7 @@ Tag(s):
   - "[[Piercing]]"
   - "[[Bludgeoning]]"
   - "[[Slashing]]"
-  - "[[Strength|Strength]]"
+  - "[[Character Options/Tags/Strength|Strength]]"
 Weapons:
   - "[[Attacking#Martial|Martial]]"
   - "[[Attacking#Simple|Simple]]"

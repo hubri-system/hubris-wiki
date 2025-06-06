@@ -1,8 +1,9 @@
 ---
 Requires:
-- '[[Five Foot Step]]'
+  - "[[Five Foot Step]]"
 Tier: 2
 XP: 5
+tags:
+  - injury
 ---
-
 You gain access to the Precision Injury table. Injuries don't stack, but you can pick any injury below what you roll.

@@ -1,9 +1,10 @@
 ---
 Requires:
-- '[[Polymorphic Casting]]'
+  - "[[Polymorphic Casting]]"
 Ticks: 0
 Tier: 2
 XP: 4
+tags:
+  - power
 ---
-
-Your polymorph spells last 1 tier longer than the spell duration, so long as all the effects are polymorphs.
+Your powers with the #shapechange properties last 1 tier longer than the duration you chose, so long as all the effects have the #shapechange property.

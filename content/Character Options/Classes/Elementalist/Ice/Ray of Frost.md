@@ -2,6 +2,9 @@
 Ticks: 0
 Tier: 1
 XP: 1
+tags:
+  - ranged
+  - damage
+Range: "[[Short]]"
 ---
-
-Make a Charisma-based spellcasting roll against the AC of a target within 30 feet. On a hit, you deal 1d6 damage.
+Make a [[Attributes#Charisma [CHA]]] roll against the [[Defending#Armor Class [AC]]] of a target within [[Short]] range. On a hit, you deal 1d6 [[Character Options/Tags/Ice|Cold]] damage.

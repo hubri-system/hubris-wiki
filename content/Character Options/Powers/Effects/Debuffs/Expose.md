@@ -11,7 +11,7 @@ Tier: 1
 XP: 1
 tags:
 - offense
-- combat/attacks
+- attacks
 - combat
 ---
 

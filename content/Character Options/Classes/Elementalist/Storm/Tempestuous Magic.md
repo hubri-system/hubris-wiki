@@ -1,9 +1,11 @@
 ---
 Requires:
-- '[[Lightning Lure]]'
+  - "[[Lightning Lure]]"
 Ticks: 0
 Tier: 1
 XP: 2
+tags:
+  - movement/fly
+  - power
 ---
-
-Whenever you successfully use a power with the [[Character Options/Classes/Elementalist/Storm]] tag, you can fly 5 feet times your proficiency bonus.
+Whenever you successfully use a power with the [[Character Options/Classes/Elementalist/Storm]] tag, you can [[Movement#Flying|Fly]] a number of feet equal to **5 * your [[Proficiency#Proficiency Bonus]].**

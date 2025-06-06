@@ -6,7 +6,11 @@ You are [[#Frightened]], and each turn you must spend at least five ticks moving
 The target treats you as a close friend, trusting you unless you attack it.
 ## Hasted
 ## Slowed
+## Blinded
+## Prone
+
 ## Polymorphed
+You are under the effects of a [[Powers|Power]] with the #shapechange property.
 ## Invisible
 ## Immobile
 The target cannot move from the space it currently occupies.

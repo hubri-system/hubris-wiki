@@ -4,7 +4,7 @@ Requires:
 Tier: 3
 XP: 7
 tags:
-  - combat/damage
+  - damage
 Duration: "[[Short Rest]]"
 ---
 	

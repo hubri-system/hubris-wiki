@@ -1,15 +1,23 @@
 Welcome to HUBRIS!
 
-## [[Basic Mechanics]]
+## Basic Mechanics
 - [[Action Resolution]]
-	- [[Action Resolution#Advantage|Adv]]
-	- 
 - [[Proficiency]]
 - [[Progression]]
 - [[Attributes]]
 
-## [[Playing the Game]]
+## Playing the Game
+### Combat
+- [[Structured Time]]
+- [[Attacking]]
+	- [[Damage]]
+	- [[Weapons]]
+- [[Defending]]
+	- [[Health & Stamina]]
+- [[Movement]]
+### Skills
 
-## [[Character Options]]
 
-## [[Extended Rules]]
+## Character Options
+
+## Extended Rules

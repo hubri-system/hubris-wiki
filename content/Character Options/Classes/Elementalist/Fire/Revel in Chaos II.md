@@ -1,8 +1,10 @@
 ---
 Requires:
-- '[[Investiture of Flame]]'
+  - "[[Investiture of Flame]]"
 Tier: 3
 XP: 7
+tags:
+  - mental/fear
+  - critical
 ---
-
-You have advantage on attacks against [[Conditions#Frightened|Frightened]] targets. If you hit a [[Conditions#Panicked|Panicked]] target, the hit is a critical hit.
+You have [[Action Resolution#Advantage]] on attacks against [[Conditions#Frightened|Frightened]] targets. If you hit a [[Conditions#Panicked|Panicked]] target, the hit is a [[Attacking#Critical Hit]].
