@@ -2,6 +2,7 @@
 Ticks: 0
 Tier: 1
 XP: 1
+tags:
+  - healing
 ---
-
-You can make medicine checks to stabilize creatures as a 5 tick action.
+You can make [[Medicine]] checks to stabilize creatures as a 5 tick action.

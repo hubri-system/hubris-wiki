@@ -1,9 +1,11 @@
 ---
 Requires:
-- '[[Distracting Trick]]'
+  - "[[Distracting Trick]]"
 Ticks: 5
 Tier: 1
 XP: 2
+tags:
+  - stealth
+  - action-economy
 ---
-
-You can hide as a 5 tick action instead of a 10 tick action.
+You may [[Combat#Hide]] for 5 ticks instead of 10.

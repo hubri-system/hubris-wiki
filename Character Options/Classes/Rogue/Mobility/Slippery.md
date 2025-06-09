@@ -1,9 +1,11 @@
 ---
 Requires:
-- '[[Dash]]'
+  - "[[Dash]]"
 Ticks: 0
 Tier: 1
 XP: 3
+tags:
+  - opportunity-attacks
+  - movement
 ---
-
-Your movement never provokes attacks of opportunity.
+Your movement never provokes [[Movement#Opportunity Attacks]].

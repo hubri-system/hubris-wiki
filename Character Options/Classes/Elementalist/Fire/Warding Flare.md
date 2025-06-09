@@ -4,7 +4,7 @@ Requires:
 Tier: 2
 XP: 4
 tags:
-  - reaction
+  - action-economy/reaction
   - debuff
 Duration: "[[Round]]"
 ---

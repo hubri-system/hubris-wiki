@@ -1,9 +1,11 @@
 ---
 Requires:
-- '[[Expertise]]'
+  - "[[Expertise]]"
 Ticks: 0
 Tier: 2
 XP: 4
+tags:
+  - expertise
+  - skill
 ---
-
-Choose a skill. You double your proficiency bonus for active checks with that skill.
+As [[Expertise]], but must be applied to a skill you do not have [[Proficiency#Expertise]] in already.

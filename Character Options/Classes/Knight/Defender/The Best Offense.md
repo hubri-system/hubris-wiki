@@ -1,8 +1,11 @@
 ---
 Requires:
-- '[[Taunt]]'
+  - "[[Taunt]]"
 Tier: 2
 XP: 5
+tags:
+  - attacks
+  - disadvantage
+  - defense
 ---
-
-…is a good defense. You can make an attack with disadvantage. If you do, attacks against you have disadvantage until your next turn.
+You can make an attack with [[Action Resolution#Disadvantage]]. If you do, attacks against you have [[Action Resolution#Disadvantage]] until the start of your next turn.

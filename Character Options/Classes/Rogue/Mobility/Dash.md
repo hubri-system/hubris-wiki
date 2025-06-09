@@ -1,9 +1,10 @@
 ---
 Requires:
-- '[[Snipe]]'
+  - "[[Snipe]]"
 Ticks: 0
 Tier: 1
 XP: 2
+tags:
+  - movement
 ---
-
-Your move speed is doubled.
+Your [[Movement#Walking]] speed is doubled.

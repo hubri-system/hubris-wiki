@@ -1,8 +1,11 @@
 ---
 Requires:
-- '[[Elemental Ammo]]'
+  - "[[Elemental Ammo]]"
 Tier: 2
 XP: 5
+tags:
+  - initiative
+  - disadvantage
+  - advantage
 ---
-
-You can roll for initiative with disadvantage. If you do, you have advantage on your first attack against each creature in combat
+You can roll for [[Structured Time#Initiative]] with [[Action Resolution#Disadvantage]]. If you do, you have [[Action Resolution#Advantage]] on your first attack against each creature in the encounter.

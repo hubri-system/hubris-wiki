@@ -1,8 +1,11 @@
 ---
 Requires:
-- '[[Heroic Volley]]'
+  - "[[Heroic Volley]]"
 Tier: 3
 XP: 7
+tags:
+  - ranged
+  - disadvantage
+  - cover
 ---
-
-Cover does not provide disadvantage against your ranged attacks
+[[Defending#Cover]] does not provide [[Action Resolution#Disadvantage]] against your [[Attacking#Ranged]] attacks.

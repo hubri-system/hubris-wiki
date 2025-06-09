@@ -1,6 +1,7 @@
 ## Damage Classes
 
-## Avoiding Damage
+## Modifying Damage
+### Vulnerability
 ### Resistance
 For every two points of damage you would take, you instead take only one.
 ### Immunity

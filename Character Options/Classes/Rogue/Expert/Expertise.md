@@ -1,9 +1,12 @@
 ---
 Requires:
-- '[[Tool Expertise]]'
+  - "[[Take Ten]]"
 Ticks: 0
 Tier: 1
 XP: 3
+tags:
+  - proficiency
+  - expertise
+  - skill
 ---
-
-Choose a skill. You double your proficiency bonus for active checks with that skill.
+Choose a skill. You double your [[Proficiency#Proficiency Bonus]] for active checks with that skill.

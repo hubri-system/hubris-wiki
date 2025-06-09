@@ -12,7 +12,7 @@ Tag(s):
   - "[[Bludgeoning]]"
   - "[[Piercing]]"
   - "[[Slashing]]"
-  - "[[Agility|Agility]]"
+  - "[[Character Options/Tags/Agility|Agility]]"
   - "[[Intelligence|Intelligence]]"
 Weapons:
   - "[[Attacking#Martial|Martial]]"

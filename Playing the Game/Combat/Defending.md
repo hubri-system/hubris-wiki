@@ -9,3 +9,5 @@ Medium armor grants the wearer an AC of *14 + [[Proficiency#Proficiency Bonus|Pr
 ### Heavy
 Heavy armor grants the wearer an AC of *18 + [[Proficiency#Proficiency Bonus|Proficiency Bonus]]*. While wearing armor of this type, creatures have [[Action Resolution#Disadvantage]] on [[Dexterity]]-based checks.
 
+## Environmental Defenses
+### Cover

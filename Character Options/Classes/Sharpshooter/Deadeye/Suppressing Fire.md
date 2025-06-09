@@ -1,8 +1,12 @@
 ---
 Requires:
-- '[[Sharp Shooting]]'
+  - "[[Sharp Shooting]]"
 Tier: 2
 XP: 4
+Duration: "[[Round]]"
+tags:
+  - disadvantage
+  - skill
+  - attacks
 ---
-
-When making an attack, you can forgo HP damage and Injury to impose disadvantage on all the targets checks until the end of your next turn
+When making an attack, you can forgo dealing damage to impose [[Action Resolution#Disadvantage]] on all the target's checks until the end of your next turn.
