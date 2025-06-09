@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Options/Classes/Wizard/Transmuter/Minor Alchemy.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minor Alchemy"
+              "title": "README"
             }
           }
         ]
@@ -89,8 +89,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,10 +186,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1963df1359461674",
+  "active": "4100a0358fe331ba",
   "lastOpenFiles": [
-    "Character Options/Classes/Wizard/Transmuter/Recycling.md",
     "Character Options/Classes/Wizard/Transmuter/Minor Alchemy.md",
+    "Character Options/Classes/Wizard/Transmuter/Recycling.md",
     "Character Options/Classes/Wizard/Transmuter/Master Transmuter.md",
     "Character Options/Classes/Wizard/Transmuter/Major Alchemy.md",
     "Character Options/Classes/Wizard/Transmuter/Legendary Alchemy.md",
