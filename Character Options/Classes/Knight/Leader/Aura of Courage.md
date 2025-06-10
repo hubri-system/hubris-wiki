@@ -10,4 +10,4 @@ tags:
   - skill
   - advantage
 ---
-Allies within 5 feet of you gain [[Action Resolution#Advantage]] on [[Athletics]], [[Playing the Game/Skills/Endurance]], and [[Composure]] checks.
+Allies within 5 feet of you gain [[Action Resolution#Advantage]] on [[Athletics]], [[Skills/Endurance]], and [[Composure]] checks.

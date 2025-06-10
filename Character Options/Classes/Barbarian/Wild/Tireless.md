@@ -7,4 +7,4 @@ XP: 3
 tags:
   - exhaustion
 ---
-If you would gain a level of exhaustion, you can attempt a DC 20 [[Playing the Game/Skills/Endurance|Endurance]] check. If you succeed, you do not gain the exhaustion.
+If you would gain a level of exhaustion, you can attempt a DC 20 [[Skills/Endurance|Endurance]] check. If you succeed, you do not gain the exhaustion.

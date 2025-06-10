@@ -8,4 +8,4 @@ tags:
   - stealth
   - action-economy/reaction
 ---
-Whenever you attack from [[Playing the Game/Skills/Stealth|Stealth]], you can use your [[Structured Time#Reactions|Reaction]] to [[Combat#Hide]].
+Whenever you attack from [[Skills/Stealth|Stealth]], you can use your [[Structured Time#Reactions|Reaction]] to [[Combat#Hide]].

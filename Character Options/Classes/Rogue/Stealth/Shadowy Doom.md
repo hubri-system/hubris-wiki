@@ -7,4 +7,4 @@ tags:
   - stealth
   - attacks
 ---
-Attacking doesn't break [[Playing the Game/Skills/Stealth|Stealth]].
+Attacking doesn't break [[Skills/Stealth|Stealth]].

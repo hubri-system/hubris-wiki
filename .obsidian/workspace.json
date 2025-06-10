@@ -11,13 +11,102 @@
             "id": "e34b6bfad3b4bdd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Hiemancy/Freezing Joints.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Freezing Joints"
+            }
+          },
+          {
+            "id": "227a1603e813d15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Hiemancy/Frigid Aura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frigid Aura"
+            }
+          },
+          {
+            "id": "c6f8f64b2132c5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Hiemancy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hiemancy"
+            }
+          },
+          {
+            "id": "661ff7a85c52fcbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Aeromancy/Aerobat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aerobat"
+            }
+          },
+          {
+            "id": "390f7fe9fee3d69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Aeromancy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aeromancy"
+            }
+          },
+          {
+            "id": "9b342fb9810b9bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Geomancy/Armor Corrosion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Armor Corrosion"
+            }
+          },
+          {
+            "id": "fd0d07222574b1c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skills/Geomancy/Burrowing Armor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Burrowing Armor"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,45 +271,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e34b6bfad3b4bdd1",
+  "active": "fd0d07222574b1c0",
   "lastOpenFiles": [
-    "Character Options/Tags/Religion.md",
-    "README.md",
-    "Playing the Game/Skills/Pyromancy.md",
-    "Playing the Game/Skills/Hiemancy.md",
-    "Playing the Game/Skills/Geomancy.md",
-    "Playing the Game/Skills/Agility.md",
-    "Playing the Game/Skills/Aeromancy.md",
-    "HUBRIS.md",
-    "Character Options/Classes/Rogue/Stealth/Death Blow.md",
-    "Character Options/Classes/Rogue/Expert/Take Ten.md",
-    "index.md",
-    "Playing the Game/Skills/Acrobatics.md",
-    "Character Options/Classes/Rogue/Stealth/Deathblow.md",
-    "Character Options/Classes/Rogue/Expert/Tool Expertise.md",
-    "github.com/elhudson.md",
-    "github.com",
-    "Character Options/Classes/Wizard/Transmuter/Minor Alchemy.md",
-    "Character Options/Classes/Wizard/Transmuter/Recycling.md",
-    "Character Options/Classes/Wizard/Transmuter/Master Transmuter.md",
-    "Character Options/Classes/Wizard/Transmuter/Major Alchemy.md",
-    "Character Options/Classes/Wizard/Transmuter/Legendary Alchemy.md",
-    "Character Options/Classes/Wizard/Transmuter/Inured II.md",
-    "Character Options/Classes/Wizard/Transmuter/Inured.md",
-    "Character Options/Tags/Nature.md",
-    "Character Options/Classes/Wizard/Transmuter/Heroic Alchemy.md",
-    "Character Options/Classes/Wizard/Transmuter/Frostbite.md",
-    "Character Options/Classes/Wizard/Evoker/Sculpt Spells.md",
-    "Playing the Game/Skills/Untitled/Untitled",
-    "Playing the Game/Skills/Untitled",
-    "Basic Mechanics/Attributes",
+    "Character Options/Classes/Elementalist/Storm.md",
+    "Character Options/Classes/Elementalist/Earth.md",
+    "Skills/Geomancy/Burrowing Armor.md",
+    "Skills/Geomancy/Armor Corrosion.md",
+    "Skills/Aeromancy.md",
+    "Skills.md",
+    "Skills/Aeromancy/Deflect Missiles.md",
+    "Skills/Aeromancy/Aerobat.md",
+    "Skills/Aeromancy/Wings.md",
+    "Skills/Aeromancy/Tempestuous Magic.md",
+    "Skills/Aeromancy/Skyborn.md",
+    "Skills/Aeromancy/Quick Feet.md",
+    "Skills/Aeromancy/Lightning Lure.md",
+    "Skills/Aeromancy/Legendary Tempest.md",
+    "Skills/Aeromancy/Investiture of Wind.md",
+    "Character Options/Classes/Elementalist/Storm",
+    "Character Options/Classes/Elementalist.md",
+    "Skills/Pyromancy/Revel in Chaos II.md",
+    "Character Options/Classes/Elementalist/Fire.md",
+    "Skills/Pyromancy/Revel in Chaos.md",
+    "Skills/Pyromancy/Firebolt.md",
+    "Skills/Pyromancy/Coal Walker.md",
+    "Skills/Hiemancy.md",
+    "Skills/Hiemancy/Freezing Touch.md",
+    "Skills/Geomancy/Acid Splash.md",
+    "Skills/Hiemancy/Freezing Joints.md",
+    "Skills/Hiemancy/Frigid Aura.md",
+    "Skills/Tinker",
+    "Skills/Survival",
+    "Skills/Streetwise",
+    "Skills/Stealth",
+    "Skills/Sleight of Hand",
+    "Skills/Pyromancy",
+    "Skills/Persuasion",
+    "Skills/Perception",
+    "Skills/Operation",
     "Untitled.canvas",
-    "Character Options/Backgrounds",
-    "Character Options/Tags/Storm",
-    "Character Options/Tags/Slashing",
-    "Character Options/Tags/Piercing",
-    "Character Options/Tags/Nature",
-    "Character Options/Tags/Mind",
     "bandit.svg",
     "IMG_0936.png",
     "processor.svg",

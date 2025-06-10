@@ -10,4 +10,4 @@ tags:
   - defense
   - stealth
 ---
-Whenever you roll [[Structured Time#Initiative]], you may make a [[Playing the Game/Skills/Stealth|Stealth]] check to hide from all creatures you could hide from.
+Whenever you roll [[Structured Time#Initiative]], you may make a [[Skills/Stealth|Stealth]] check to hide from all creatures you could hide from.

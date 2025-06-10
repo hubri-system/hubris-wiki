@@ -3,7 +3,7 @@ Attribute: "[[Attributes#Constitution [CON]|Constitution]]"
 Feature:
   - "[[Darkvision]]"
 Skill:
-  - "[[Playing the Game/Skills/Endurance]]"
+  - "[[Skills/Endurance]]"
 ---
 You have magic in your veins.
 
