@@ -1,23 +1,8 @@
-Welcome to HUBRIS!
+## What is this?
+This repository comprises the System Reference Document (SRD) for the Habitually UnderBuilt Roleplay Integrated System (HUBRIS). HUBRIS is a gaming system that aims to solve some common problems in TTRPG design while maintaining a good balance between simplicity and optionality.
 
-## Basic Mechanics
-- [[Action Resolution]]
-- [[Proficiency]]
-- [[Progression]]
-- [[Attributes]]
+## Who made it?
+HUBRIS was designed by [Nadav Elata](https://github.com/nzselata), with additional contributions and support by [El Hudson](https://github.com/elhudson).
 
-## Playing the Game
-### Combat
-- [[Structured Time]]
-- [[Attacking]]
-	- [[Damage]]
-	- [[Weapons]]
-- [[Defending]]
-	- [[Health & Stamina]]
-- [[Movement]]
-### Skills
-
-
-## Character Options
-
-## Extended Rules
+## How can I use it?
+The SRD is best browsed using [the software we used to build it](https://obsidian.md).
