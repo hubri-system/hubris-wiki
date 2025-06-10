@@ -9,5 +9,4 @@ tags:
   - movement
   - defense
 ---
-
 You have [[Action Resolution#Advantage]] on rolls made to resist forced movement.
