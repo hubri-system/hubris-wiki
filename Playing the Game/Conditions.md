@@ -9,7 +9,7 @@ The target treats you as a close friend, trusting you unless you attack it.
 ## Blinded
 ## Prone
 ## Disarmed
-
+## Stunned
 ## Polymorphed
 You are under the effects of a [[Powers|Power]] with the #shapechange property.
 ## Invisible
