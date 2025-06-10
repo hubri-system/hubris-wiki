@@ -8,105 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e34b6bfad3b4bdd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills/Hiemancy/Freezing Joints.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Freezing Joints"
-            }
-          },
-          {
-            "id": "227a1603e813d15d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills/Hiemancy/Frigid Aura.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frigid Aura"
-            }
-          },
-          {
-            "id": "c6f8f64b2132c5be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills/Hiemancy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hiemancy"
-            }
-          },
-          {
             "id": "661ff7a85c52fcbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills/Aeromancy/Aerobat.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Aerobat"
-            }
-          },
-          {
-            "id": "390f7fe9fee3d69e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills/Aeromancy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aeromancy"
-            }
-          },
-          {
-            "id": "9b342fb9810b9bd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills/Geomancy/Armor Corrosion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Armor Corrosion"
-            }
-          },
-          {
-            "id": "fd0d07222574b1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills/Geomancy/Burrowing Armor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Burrowing Armor"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,44 +182,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd0d07222574b1c0",
+  "active": "661ff7a85c52fcbe",
   "lastOpenFiles": [
-    "Character Options/Classes/Elementalist/Storm.md",
-    "Character Options/Classes/Elementalist/Earth.md",
-    "Skills/Geomancy/Burrowing Armor.md",
-    "Skills/Geomancy/Armor Corrosion.md",
-    "Skills/Aeromancy.md",
-    "Skills.md",
-    "Skills/Aeromancy/Deflect Missiles.md",
-    "Skills/Aeromancy/Aerobat.md",
-    "Skills/Aeromancy/Wings.md",
-    "Skills/Aeromancy/Tempestuous Magic.md",
-    "Skills/Aeromancy/Skyborn.md",
-    "Skills/Aeromancy/Quick Feet.md",
-    "Skills/Aeromancy/Lightning Lure.md",
-    "Skills/Aeromancy/Legendary Tempest.md",
-    "Skills/Aeromancy/Investiture of Wind.md",
-    "Character Options/Classes/Elementalist/Storm",
-    "Character Options/Classes/Elementalist.md",
-    "Skills/Pyromancy/Revel in Chaos II.md",
-    "Character Options/Classes/Elementalist/Fire.md",
+    "Character Options/Tags/Earth/Shaking Earth.md",
+    "Skills/Tinker.md",
+    "Skills/Survival.md",
+    "Skills/Streetwise.md",
+    "Skills/Stealth.md",
+    "Skills/Sleight of Hand.md",
+    "Skills/Pyromancy/Warding Flare.md",
     "Skills/Pyromancy/Revel in Chaos.md",
-    "Skills/Pyromancy/Firebolt.md",
+    "Skills/Pyromancy/Revel in Chaos II.md",
+    "Skills/Pyromancy/Legendary Inferno.md",
+    "Skills/Pyromancy/Investiture of Flame.md",
     "Skills/Pyromancy/Coal Walker.md",
-    "Skills/Hiemancy.md",
-    "Skills/Hiemancy/Freezing Touch.md",
-    "Skills/Geomancy/Acid Splash.md",
-    "Skills/Hiemancy/Freezing Joints.md",
-    "Skills/Hiemancy/Frigid Aura.md",
-    "Skills/Tinker",
-    "Skills/Survival",
-    "Skills/Streetwise",
-    "Skills/Stealth",
-    "Skills/Sleight of Hand",
+    "Skills/Pyromancy/Hot Headed.md",
+    "Skills/Pyromancy/Hair on Fire.md",
+    "Skills/Pyromancy/Firebolt.md",
     "Skills/Pyromancy",
-    "Skills/Persuasion",
-    "Skills/Perception",
-    "Skills/Operation",
+    "Skills/Pyromancy.md",
+    "Skills/Persuasion.md",
+    "Skills/Perception.md",
+    "Skills/Operation.md",
+    "Skills/Medicine.md",
+    "Skills/Investigation.md",
+    "Skills/Intimidation.md",
+    "Skills/Insight.md",
+    "Skills/Hiemancy/The Cold Never Bothered Me Anyway.md",
+    "Skills/Hiemancy/Slowing Cold.md",
+    "Skills/Hiemancy/Slick Coating.md",
+    "Skills/Hiemancy",
+    "Skills/Geomancy",
+    "Skills/Aeromancy",
+    "Playing the Game/Skills",
+    "Character Options/Classes/Elementalist/Storm",
+    "Character Options/Classes/Elementalist/Ice",
+    "Character Options/Classes/Elementalist/Fire",
+    "Character Options/Classes/Elementalist/Earth",
+    "Character Options/Classes/Elementalist",
     "Untitled.canvas",
     "bandit.svg",
     "IMG_0936.png",
