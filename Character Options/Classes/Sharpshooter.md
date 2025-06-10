@@ -10,7 +10,7 @@ Armor:
 Attribute: "[[Attributes#Dexterity [DEX]|Dexterity]]"
 Hd: d6
 Tag(s):
-  - "[[Agility|Agility]]"
+  - "[[Character Options/Tags/Agility|Agility]]"
   - "[[Bludgeoning]]"
   - "[[Piercing]]"
   - "[[Slashing]]"

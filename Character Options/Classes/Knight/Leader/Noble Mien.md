@@ -1,9 +1,11 @@
 ---
 Requires:
-- '[[Resistance]]'
+  - "[[Resistance]]"
 Ticks: 0
 Tier: 1
 XP: 2
+tags:
+  - advantage
+  - skill
 ---
-
-If your proficiency in a [[Attributes/Charisma|Charisma]] skill is higher than an Ally's, that Ally gains advantage on that check.
+If your bonus to a [[Attributes#Charisma [CHA]]] skill is higher than an ally's, that ally gains [[Action Resolution#Advantage]] on that check.

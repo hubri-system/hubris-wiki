@@ -6,7 +6,7 @@ Tier: 3
 XP: 7
 tags:
   - power
-  - reaction
+  - action-economy/reaction
   - allies
   - support
 ---

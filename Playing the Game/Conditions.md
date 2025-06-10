@@ -8,6 +8,7 @@ The target treats you as a close friend, trusting you unless you attack it.
 ## Slowed
 ## Blinded
 ## Prone
+## Disarmed
 
 ## Polymorphed
 You are under the effects of a [[Powers|Power]] with the #shapechange property.

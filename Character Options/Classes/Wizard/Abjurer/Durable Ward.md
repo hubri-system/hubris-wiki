@@ -1,8 +1,11 @@
 ---
 Requires:
-- '[[Heroic Denial]]'
+  - "[[Heroic Denial]]"
 Tier: 3
 XP: 7
+tags:
+  - upgrade
+  - damage/vulnerability
+Upgrades: "[[Arcane Ward]]"
 ---
-
-Your ward is no longer vulnerable to all damage
+Your [[Arcane Ward]] is no longer vulnerable to all damage.

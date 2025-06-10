@@ -1,8 +1,10 @@
 ---
 Requires:
-- '[[Apprentices]]'
+  - "[[Apprentices]]"
 Tier: 3
 XP: 8
+tags:
+  - hero-points
+  - expertise
 ---
-
-When making a check you have expertise in, you generate a Hero point on any roll of 14 or above
+When making a check you have [[Proficiency#Expertise]] in, you generate a [[Action Resolution#Hero Points|Hero Point]] on a roll of 14 or above.

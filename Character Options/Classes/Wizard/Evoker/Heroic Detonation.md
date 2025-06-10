@@ -1,8 +1,11 @@
 ---
 Requires:
-- '[[Extended Sculpt]]'
+  - "[[Extended Sculpt]]"
 Tier: 2
 XP: 6
+tags:
+  - hero-points
+  - damage
+  - power
 ---
-
-You can spend a Hero Point to double the number of hit points a spell you cast removes.
+You can spend a [[Action Resolution#Hero Points|Hero Point]] to double the amount of damage dealt by a power you use.

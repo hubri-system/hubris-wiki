@@ -1,9 +1,12 @@
 ---
 Requires:
-- '[[Fancy Footwork]]'
+  - "[[Fancy Footwork]]"
 Ticks: 0
 Tier: 1
 XP: 3
+tags:
+  - control
+  - opportunity-attacks
+  - movement
 ---
-
-All movement provokes attacks of opportunity from you.
+All movement provokes [[Movement#Opportunity Attacks]] from you.

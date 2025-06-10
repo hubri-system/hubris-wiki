@@ -6,4 +6,4 @@ XP: 5
 tags:
   - movement/burrow
 ---
-You gain a burrowing speed. 
+You gain a [[Movement#Burrow]] speed. 

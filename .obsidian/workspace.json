@@ -13,8 +13,15 @@
             "state": {
               "type": "empty",
               "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
               "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -49,6 +56,7 @@
             "state": {
               "type": "search",
               "state": {
+                "query": "tag:#allies",
                 "query": "tag:#allies",
                 "matchingCase": false,
                 "explainSearch": false,
@@ -184,6 +192,35 @@
   },
   "active": "fc72a7232017c6c1",
   "lastOpenFiles": [
+    "README.md",
+    "HUBRIS.md",
+    "github.com/elhudson.md",
+    "github.com",
+    "Character Options/Classes/Wizard/Transmuter/Minor Alchemy.md",
+    "Character Options/Classes/Wizard/Transmuter/Recycling.md",
+    "Character Options/Classes/Wizard/Transmuter/Master Transmuter.md",
+    "Character Options/Classes/Wizard/Transmuter/Major Alchemy.md",
+    "Character Options/Classes/Wizard/Transmuter/Legendary Alchemy.md",
+    "Character Options/Classes/Wizard/Transmuter/Inured II.md",
+    "Character Options/Classes/Wizard/Transmuter/Inured.md",
+    "Character Options/Tags/Nature.md",
+    "Character Options/Classes/Wizard/Transmuter/Heroic Alchemy.md",
+    "Character Options/Classes/Wizard/Transmuter/Frostbite.md",
+    "Character Options/Classes/Wizard/Evoker/Sculpt Spells.md",
+    "Character Options/Classes/Wizard/Evoker/Produce Flame.md",
+    "Character Options/Classes/Wizard/Evoker/Legendary Explosion.md",
+    "Character Options/Classes/Wizard/Evoker/Inescapable Spells.md",
+    "Character Options/Classes/Wizard/Evoker/Heroic Detonation.md",
+    "Character Options/Classes/Wizard/Evoker/Extended Sculpt.md",
+    "Character Options/Classes/Wizard/Evoker/Durable Magic.md",
+    "Character Options/Classes/Wizard/Evoker/Cruel Gifts.md",
+    "Character Options/Classes/Wizard/Evoker/Arcane Deflection.md",
+    "Character Options/Classes/Wizard/Conjurer/Portent.md",
+    "Character Options/Tags/Intelligence.md",
+    "Character Options/Classes/Wizard/Conjurer/Unseen Servant.md",
+    "Character Options/Classes/Wizard/Conjurer/Reactive Ethereality.md",
+    "Playing the Game/Skills/Untitled/Untitled",
+    "Playing the Game/Skills/Untitled",
     "README.md",
     "index.md",
     "Playing the Game/Skills/Acrobatics.md",

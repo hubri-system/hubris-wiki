@@ -2,6 +2,9 @@
 Ticks: 10
 Tier: 1
 XP: 1
+tags:
+  - defense
+  - skill
+  - advantage
 ---
-
-As a 10 tick action, you may grant a creature of your choice advantage on the next defensive skill check it makes.
+For 10 ticks, you may grant a creature of your choice [[Action Resolution#Advantage]] on the next defensive skill check it makes.

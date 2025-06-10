@@ -3,7 +3,9 @@
 
 
 ## Movement Modes
-### Walking
-### Flying
-### Climbing
-### Burrowing
+### Walk
+### Fly
+### Climb
+### Burrow
+### Teleport
+
