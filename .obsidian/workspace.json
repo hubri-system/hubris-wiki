@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4a80746446dd0f0d",
+    "id": "bab8b9e1354e8ec7",
     "type": "split",
     "children": [
       {
-        "id": "37133ca847b57894",
+        "id": "7bdad070a08bf455",
         "type": "tabs",
         "children": [
           {
-            "id": "661ff7a85c52fcbe",
+            "id": "362a03fe8c20ac49",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,37 +23,37 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "01c62db9b61e10af",
+    "id": "1c71d20405570fb1",
     "type": "split",
     "children": [
       {
-        "id": "9862a6fb82cb53a9",
+        "id": "7a7699d5410f4cf3",
         "type": "tabs",
         "children": [
           {
-            "id": "4100a0358fe331ba",
+            "id": "2bf3527926e5528d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "a444cf44300a617b",
+            "id": "525313b93e4a3681",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#allies",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "99050df6e4b29183",
+            "id": "fdec3fd2d3957ae7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,14 +69,59 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7648a927ba9b6e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f047c15511b0231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed25e90aca4f053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           },
           {
-            "id": "1963df1359461674",
+            "id": "3b2e26f318b49fdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "20dd2aad92f92463",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -84,71 +129,23 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 425.01247787475586
-  },
-  "right": {
-    "id": "5033683b26542878",
-    "type": "split",
-    "children": [
-      {
-        "id": "49487b08bcf12b6f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6c42bc62c0e748a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Playing the Game/Skills/Acrobatics.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Acrobatics"
-            }
           },
           {
-            "id": "a0801229961b20f2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Basic Mechanics/Attributes.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Attributes"
-            }
-          },
-          {
-            "id": "2bcfcab5fb9bc987",
+            "id": "e7716c24c7ebda07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Mechanics/Attributes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Attributes"
+              "title": "Outline"
             }
           },
           {
-            "id": "a550ccd995ac5846",
+            "id": "b219865f0eac2476",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -170,21 +167,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-importer:Open Importer": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "661ff7a85c52fcbe",
+  "active": "2bf3527926e5528d",
   "lastOpenFiles": [
-    "Character Options/Tags/Earth/Shaking Earth.md",
     "Skills/Tinker.md",
     "Skills/Survival.md",
     "Skills/Streetwise.md",
@@ -195,10 +191,10 @@
     "Skills/Pyromancy/Revel in Chaos II.md",
     "Skills/Pyromancy/Legendary Inferno.md",
     "Skills/Pyromancy/Investiture of Flame.md",
-    "Skills/Pyromancy/Coal Walker.md",
     "Skills/Pyromancy/Hot Headed.md",
     "Skills/Pyromancy/Hair on Fire.md",
     "Skills/Pyromancy/Firebolt.md",
+    "Skills/Pyromancy/Coal Walker.md",
     "Skills/Pyromancy",
     "Skills/Pyromancy.md",
     "Skills/Persuasion.md",
@@ -211,26 +207,15 @@
     "Skills/Hiemancy/The Cold Never Bothered Me Anyway.md",
     "Skills/Hiemancy/Slowing Cold.md",
     "Skills/Hiemancy/Slick Coating.md",
+    "Skills/Hiemancy/Shards.md",
     "Skills/Hiemancy",
     "Skills/Geomancy",
     "Skills/Aeromancy",
-    "Playing the Game/Skills",
-    "Character Options/Classes/Elementalist/Storm",
-    "Character Options/Classes/Elementalist/Ice",
-    "Character Options/Classes/Elementalist/Fire",
-    "Character Options/Classes/Elementalist/Earth",
-    "Character Options/Classes/Elementalist",
-    "Untitled.canvas",
-    "bandit.svg",
-    "IMG_0936.png",
-    "processor.svg",
-    "caravel.svg",
-    "hammer-nails.svg",
-    "spyglass.svg",
-    "chess-king.svg",
-    "spy.svg",
-    "sword-brandish.svg",
-    "church.svg",
-    "Core Rules/Metadata/Metadata.canvas"
+    "Playing the Game/Combat",
+    "Playing the Game",
+    "Extended Rules/Alternate Settings/Republic of Samarqand/Backgrounds",
+    "Extended Rules/Alternate Settings/Republic of Samarqand",
+    "Extended Rules/Alternate Settings",
+    "Extended Rules"
   ]
 }
