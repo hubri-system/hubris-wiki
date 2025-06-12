@@ -2,7 +2,7 @@
 Power: 5
 Requires:
   - "[[Immobilize]]"
-Tag(s):
+Skills:
   - "[[Transmutation|Transmutation]]"
   - "[[Character Options/Tags/Strength|Strength]]"
   - "[[Religion|Religion]]"

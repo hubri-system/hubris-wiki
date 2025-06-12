@@ -1,14 +1,14 @@
 ---
 Power: 11
 Requires:
-- '[[Summon V]]'
-Tag(s):
-- '[[Nature|Nature]]'
-- '[[Conjuration|Conjuration]]'
+  - "[[Summon V]]"
+Skills:
+  - "[[Nature|Nature]]"
+  - "[[Conjuration|Conjuration]]"
 Tier: 2
 XP: 6
 tags:
-- summon
+  - summon
 ---
 
 You summon a magical beast or spirit with 20 points to distribute amongst stats.  It has 15 experience points, and two of the following: * A climb, swim, or fly speed and proficiency in an attack or skill* a class * a background

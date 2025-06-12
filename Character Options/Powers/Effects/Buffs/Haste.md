@@ -1,12 +1,12 @@
 ---
 Power: 9
-Properties: null
+Properties: 
 Requires:
-- '[[Energy Damage]]'
-Tag(s):
-- '[[Intelligence|Intelligence]]'
-- '[[Transmutation|Transmutation]]'
-- '[[Character Options/Tags/Storm|Storm]]'
+  - "[[Energy Damage]]"
+Skills:
+  - "[[Intelligence|Intelligence]]"
+  - "[[Transmutation|Transmutation]]"
+  - "[[Character Options/Tags/Storm|Storm]]"
 Tier: 2
 XP: 5
 ---

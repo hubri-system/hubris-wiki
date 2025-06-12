@@ -1,14 +1,14 @@
 ---
 Power: 5
 Requires:
-- '[[Invisibility]]'
-Tag(s):
-- '[[Conjuration|Conjuration]]'
+  - "[[Invisibility]]"
+Skills:
+  - "[[Conjuration|Conjuration]]"
 Tier: 1
 XP: 3
 tags:
-- defense
-- stealth
+  - defense
+  - stealth
 ---
 
 The target gains the invisible condition.

@@ -1,6 +1,6 @@
 ---
 Power: 1
-Tag(s):
+Skills:
   - "[[Abjuration|Abjuration]]"
   - "[[Character Options/Tags/Agility|Agility]]"
   - "[[Character Options/Tags/Fire|Fire]]"

@@ -1,12 +1,12 @@
 ---
 Power: 11
-Properties: null
+Properties: 
 Requires:
-- '[[Armor II]]'
-Tag(s):
-- '[[Nature|Nature]]'
-- '[[Religion|Religion]]'
-- '[[Conjuration|Conjuration]]'
+  - "[[Armor II]]"
+Skills:
+  - "[[Nature|Nature]]"
+  - "[[Religion|Religion]]"
+  - "[[Conjuration|Conjuration]]"
 Tier: 2
 XP: 6
 ---

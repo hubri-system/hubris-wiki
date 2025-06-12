@@ -1,7 +1,7 @@
 ---
 Requires:
   - "[[Shock and Awe]]"
-Tag(s):
+Skills:
   - "[[Bludgeoning]]"
 Tier: 1
 XP: 4

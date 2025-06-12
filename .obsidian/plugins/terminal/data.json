@@ -50,6 +50,10 @@
         "SIGTERM"
       ],
       "terminalOptions": {
+        "theme": {
+          "background": "#655134",
+          "foreground": "#f8f5f1"
+        },
         "documentOverride": null
       },
       "type": "integrated",

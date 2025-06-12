@@ -1,13 +1,13 @@
 ---
 Power: 9
 Requires:
-- '[[Misty Step]]'
-Tag(s):
-- '[[Abjuration|Abjuration]]'
+  - "[[Misty Step]]"
+Skills:
+  - "[[Abjuration|Abjuration]]"
 Tier: 2
 XP: 5
 tags:
-- movement
+  - movement
 ---
 
 The target, and one willing creature of your choice, teleports 500 feet to a spot you can see.

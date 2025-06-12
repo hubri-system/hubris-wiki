@@ -1,14 +1,14 @@
 ---
 Power: 7
 Requires:
-- '[[Summon III]]'
-Tag(s):
-- '[[Nature|Nature]]'
-- '[[Conjuration|Conjuration]]'
+  - "[[Summon III]]"
+Skills:
+  - "[[Nature|Nature]]"
+  - "[[Conjuration|Conjuration]]"
 Tier: 2
 XP: 4
 tags:
-- summon
+  - summon
 ---
 
 You summon a magical beast or spirit with 20 points to distribute amongst stats.  It has 6 experience points, and one of the following: 

@@ -1,14 +1,14 @@
 ---
 Power: 7
-Properties: null
+Properties: 
 Requires:
-- '[[Blindness]]'
-Tag(s):
-- '[[Charisma|Charisma]]'
-- '[[Character Options/Tags/Ice|Ice]]'
-- '[[Intelligence|Intelligence]]'
-- '[[Mind|Mind]]'
-- '[[Transmutation|Transmutation]]'
+  - "[[Blindness]]"
+Skills:
+  - "[[Charisma|Charisma]]"
+  - "[[Character Options/Tags/Cryomancy|Cryomancy]]"
+  - "[[Intelligence|Intelligence]]"
+  - "[[Mind|Mind]]"
+  - "[[Transmutation|Transmutation]]"
 Tier: 2
 XP: 4
 ---

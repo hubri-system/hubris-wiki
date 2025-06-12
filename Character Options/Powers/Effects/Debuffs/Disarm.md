@@ -2,7 +2,7 @@
 Power: 3
 Requires:
   - "[[Expose]]"
-Tag(s):
+Skills:
   - "[[Character Options/Tags/Storm|Storm]]"
   - "[[Intelligence|Intelligence]]"
   - "[[Mind|Mind]]"

@@ -2,10 +2,10 @@
 Power: 5
 Requires:
   - "[[Armor I]]"
-Tag(s):
+Skills:
   - "[[Abjuration|Abjuration]]"
   - "[[Character Options/Tags/Agility|Agility]]"
-  - "[[Character Options/Tags/Ice|Ice]]"
+  - "[[Character Options/Tags/Cryomancy|Cryomancy]]"
   - "[[Nature|Nature]]"
   - "[[Religion|Religion]]"
 Tier: 1

@@ -9,10 +9,6 @@
     "XP": "number",
     "Shape": "multitext",
     "Requires": "multitext",
-    "Armor": "multitext",
-    "Weapons": "multitext",
-    "Attribute": "text",
-    "Archetypes": "multitext",
-    "needs-attention": "checkbox"
+    "Attribute": "text"
   }
 }

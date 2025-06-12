@@ -1,6 +1,6 @@
 ---
 Power: 1
-Tag(s):
+Skills:
   - "[[Mind|Mind]]"
   - "[[Intelligence|Intelligence]]"
   - "[[Conjuration|Conjuration]]"

@@ -2,7 +2,7 @@
 Power: 3
 Requires:
   - "[[Deflection]]"
-Tag(s):
+Skills:
   - "[[Conjuration|Conjuration]]"
   - "[[Character Options/Tags/Agility|Agility]]"
 Tier: 1
