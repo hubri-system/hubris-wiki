@@ -1,8 +1,7 @@
 ---
 Requires:
-- '[[Glance Deep]]'
+  - "[[Glance Deep]]"
 Tier: 2
 XP: 9
 ---
-
-Your glancing hits with [[Character Options/Tags/Piercing]] powers are normal hits.
+Your [[Attacking#Glance|Glancing]] hits with [[Character Options/Tags/Piercing]] powers are normal hits.

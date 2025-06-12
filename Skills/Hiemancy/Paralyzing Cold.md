@@ -1,8 +1,12 @@
 ---
 Requires:
-- '[[Slowing Cold]]'
+  - "[[Slowing Cold]]"
 Tier: 2
 XP: 8
+tags:
+  - condition/paralyzed
+  - condition/immobile
+  - advantage
+  - power
 ---
-
-You have advantage when attempting to cast [[Notion/Core Rules/Tags/Ice]]  spells that inflict the  condition. Creatures affected by your [[Notion/Core Rules/Tags/Ice]]  spells are also immobilized.
+You have [[Action Resolution#Advantage]] when attempting to use [[Character Options/Tags/Ice|Ice]] powers that inflict the [[Conditions#Paralyzed]] condition. Creatures affected by your [[Character Options/Tags/Ice|Ice]] powers are also [[Conditions#Immobile|Immobilized]].

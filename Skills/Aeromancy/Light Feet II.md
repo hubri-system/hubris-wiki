@@ -4,5 +4,4 @@ Requires:
 Tier: 1
 XP: 4
 ---
-
-You can grant creatures affected by your air spells a glide speed equal to their walking speed.
+You can grant creatures affected by your [[Character Options/Tags/Storm|Storm]] powers a glide speed equal to their [[Movement#Walk|Walking]] speed.

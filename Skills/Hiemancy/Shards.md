@@ -1,6 +1,7 @@
 ---
 Tier: 1
 XP: 2
+tags:
+  - backlash
 ---
-
-Any creature that attacks your spells takes 1 HP of Slashing damage if they destroy the spell.
+Any creature that attacks your [[Ice]] powers takes 1 [[Slashing]] damage if they destroy the power.

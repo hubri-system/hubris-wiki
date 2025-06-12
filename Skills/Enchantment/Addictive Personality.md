@@ -4,4 +4,4 @@ Requires:
 Tier: 1
 XP: 3
 ---
-When you charm the leader of a group, your charm also affects their subordinates.
+When you [[Conditions#Charmed|Charm]] the leader of a group, your charm also affects their subordinates.

@@ -4,5 +4,4 @@ Requires:
 Tier: 2
 XP: 7
 ---
-
-Whenever you score a critical hit with a [[Character Options/Tags/Slashing]] power, you can inflict the Bleeding injury, causing the target to lose 1 HP per turn until healed.
+Whenever you score a [[Attacking#Critical Hit]] with a [[Slashing]] power, you can inflict the [[Conditions#Bleeding]] condition, causing the target to take 1 damage per turn until healed.
