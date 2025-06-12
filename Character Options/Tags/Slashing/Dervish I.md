@@ -2,5 +2,4 @@
 Tier: 1
 XP: 2
 ---
-
-Whenever you hit a creature with a slashing attack, if you surpass the AC of adjacent creatures, you can deal a glancing hit to them.
+Whenever you score a [[Attacking#Hit]] with a [[Slashing]] power, if you surpass the [[Defending#Armor Class [AC]]] of adjacent creatures, you can deal a [[Attacking#Glance|Glancing]] hit to them.

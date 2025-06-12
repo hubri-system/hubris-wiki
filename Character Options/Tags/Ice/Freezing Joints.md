@@ -2,5 +2,4 @@
 Tier: 1
 XP: 2
 ---
-
-You have advantage on Power rolls when casting spells that immobilize.
+You have [[Action Resolution#Advantage]] on Power rolls when using powers that [[Conditions#Immobile|Immobilize]].

@@ -1,8 +1,8 @@
 ---
 Requires:
-- '[[Dervish II]]'
+  - "[[Dervish II]]"
 Tier: 2
 XP: 7
+Upgrades: "[[Dervish II]]"
 ---
-
-As [[Dervish II]], but targets creatures adjacent to either you or the target.
+As [[Dervish II]], but you may target creatures adjacent to either you or the target.

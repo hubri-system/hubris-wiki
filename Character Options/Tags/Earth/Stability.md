@@ -1,6 +1,8 @@
 ---
 Tier: 1
 XP: 2
+tags:
+  - condition/prone
+  - allies
 ---
-
-Creatures of your choice affected by your [[Core Rules/Paths/Earth]]  powers can't be knocked prone.
+Creatures of your choice affected by your [[Character Options/Tags/Earth|Earth]] powers can't be knocked [[Conditions#Prone]].

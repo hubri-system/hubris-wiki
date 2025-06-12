@@ -4,5 +4,4 @@ Requires:
 Tier: 1
 XP: 3
 ---
-
-Your [[Notion/Core Rules/Tags/Nature]] effects can spread to spaces within a number of feet equal to 5 times your Proficiency bonus.
+Your [[Nature]] powers may spread to spaces within a number of feet equal to **5 * your [[Proficiency#Proficiency Bonus]]**.

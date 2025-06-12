@@ -4,5 +4,4 @@ Requires:
 Tier: 2
 XP: 6
 ---
-
-Your plant effects fill in all spaces between where they spreads to and their existing area.
+Your [[Nature]] powers fill in all spaces between where they spread to and their existing area.
