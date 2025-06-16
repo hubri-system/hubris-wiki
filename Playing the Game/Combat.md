@@ -45,9 +45,17 @@ Ranged attacks take 7 ticks to perform.  Different weapons have different modifi
 If an ability allows someone to make a **reaction**, they can take the specified action for half its normal tick cost (unless otherwise specified) when the trigger condition occurs, even if it is not their turn.  You can only take one **reaction** between turns.
 
 # Hit Points, Fatigue and Damage
-HUBRIS has a combined system to represent both long-term damage and short-term exhaustion.  Each character has a number of **Faitgue Points**, which begins at 3 and increases every time they increase their **Endurance** score.  When a character is hit with an attack, they make an **Endurance** check, opposed by the **Damage** of the attacker.  If they fail, they take a point of **Hit Point Damage**.  Many kinds of armor can give bonuses to the **Endurance** check.  Most attacks will also deal one point of **Fatigue Damage** damage as well.  
+HUBRIS has a combined system to represent both long-term damage and short-term exhaustion.  
 
-When someone's remaining Fatigue Points are equal to the amount of **Damage** they have suffered, they are knocked out.  A character can also gain extra **Hit Points**, which are lost first, before **damage** is marked on the character.  
+## Fatigue 
+Each character has a number of **Faitgue Points**, which begins at 3 and increases every time they increase their **Endurance** score.  **Fatigue Points** count down to 0, and any character with 0 **Fatigue Points** is knocked unconscious.  **Fatigute Points** are restored to their maximum whenever a character takes a **Short Rest**, and most attacks generally deal 1 point of **Fatigue Damage**
+
+## Injury
+Each character can also suffer injuries, represented as **Damage**.  When a character is hit with an attack, they make an **Endurance** check, opposed by the **Damage** of the attacker.  Many kinds of armor can give bonuses to the **Endurance** check.  If they fail, they take a point of **Damage**.
+
+Rather than be lost from a set pool, **Damage** accumulates on a character, and is not healed until a character takes a **Long Rest.** When a character's remaining **Fatigue Points** are equal to the amount of **Damage** marked on their character, they are knocked out.  
+
+A character can also gain **Hit Points**, which offset **damage**, preventing it from being marked on a character,   
 
 As an example:
 
