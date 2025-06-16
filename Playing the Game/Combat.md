@@ -39,7 +39,7 @@ This attack takes 10 ticks, and deals a point of Fatigue Damage.  You add your *
 #### Heavy Attack
 This attack takes 13 ticks, and deals a point of Fatigue Damage.  You add one and a half times your **Damage** skill when making a damage check, as detailed below.
 ### Ranged Attacks
-Ranged attacks take 7 ticks to perform.  Different weapons have different modifiers to the fatigue check, which does not use the **Damage** skill for ranged weapons by default, and different reload times.  Some ranged weapons do not deal hit point damage, instead only checking to damage fatigue.  
+Ranged attacks take 7 ticks to perform.  Different weapons have different modifiers to the damage check, which does not use the **Damage** skill for ranged weapons by default, and different reload times.  Some ranged weapons do not deal faitgue damage, instead only checking to damage hit points.  
 
 ## Reactions
 If an ability allows someone to make a **reaction**, they can take the specified action for half its normal tick cost (unless otherwise specified) when the trigger condition occurs, even if it is not their turn.  You can only take one **reaction** between turns.
